@@ -1,6 +1,6 @@
 # Olá 👋, sou Nathan Nunes!
 
-🚀 **Formado em Análise e Desenvolvimento de Sistemas, com interesse em desenvolvimento web, e-commerce e soluções digitais**
+🚀 **Formado em Análise e Desenvolvimento de Sistemas, focado em desenvolvimento web, e-commerce e soluções digitais**
 
 Tenho interesse em desenvolvimento web, e-commerce e soluções digitais voltadas para automação, operação e experiência do usuário.
 
@@ -14,7 +14,7 @@ Atualmente estou aprofundando meus conhecimentos em Front-End e desenvolvimento 
   <a href="https://github.com/nathannunes-dev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/nathan-nunes-perfil">
+  <a href="https://www.linkedin.com/in/nathan-nunes-perfil">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -34,15 +34,6 @@ Atualmente estou aprofundando meus conhecimentos em Front-End e desenvolvimento 
 ### Atualmente estudando
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
